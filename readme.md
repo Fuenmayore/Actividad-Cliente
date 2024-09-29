@@ -62,7 +62,7 @@ El archivo JavaScript contiene la lógica para:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/proyecto-peliculas.git
+   git clone https://github.com/Fuenmayore/Actividad-Cliente.git
 
 2. **Navega a la carpeta del proyecto**:
 
